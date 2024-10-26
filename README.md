@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm venkatesh Reddy</h1>
 <h3 align="center">A passionate engineer bridging ideas and technology</h3>
 
-- 📫 How to reach me **venkteshramreddy@gmail.com**
+- 📫 How to reach me
+- phone nu **+91 9535401825**
+- mail **venkteshramreddy@gmail.com**
 - linkedin **https://www.linkedin.com/in/venkteshreddy/**
 
 <h3 align="left">Connect with me:</h3>
