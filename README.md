@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate engineer bridging ideas and technology</h3>
 
 - 📫 How to reach me **venkteshramreddy@gmail.com**
+- linkedin **https://www.linkedin.com/in/venkteshreddy/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
