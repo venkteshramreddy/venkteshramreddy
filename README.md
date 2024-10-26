@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - mail **venkteshramreddy@gmail.com**
 - linkedin **https://www.linkedin.com/in/venkteshreddy/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
